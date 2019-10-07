@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a5a98ffc-7f61-472e-8c61-bac5d81a545d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../AssignmentPhp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Attend/.idea/Attend.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Attend/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Attend/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Attend/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Attend/add.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Attend/add_hr.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Attend/admin.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Attend/db.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Attend/developer.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Attend/header.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Attend/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Attend/insertTime.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Attend/login.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Attend/manager.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Attend/show_attend.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Attend/validate.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Attend/view_all.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MVC/.idea/MVC.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MVC/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MVC/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MVC/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MVC/app/.htaccess" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MVC/app/controllers/home.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MVC/app/core/App.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MVC/app/core/Controller.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MVC/app/init.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MVC/public/css/.htaccess" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MVC/public/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MvcLogin/.idea/MvcLogin.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MvcLogin/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MvcLogin/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MvcLogin/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MvcLogin/app/controllers/accountController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MvcLogin/app/views/login.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MvcLogin/app/views/signup.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MvcLogin/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MvcLogin/system/link.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Php_Assignment/.idea/Php_Assignment.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Php_Assignment/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Php_Assignment/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Php_Assignment/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Php_Assignment/Controller/controller.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Php_Assignment/Controller/validations.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Php_Assignment/Model/connection.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Php_Assignment/Model/model.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Php_Assignment/Model/table.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Php_Assignment/Views/dbData.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Php_Assignment/Views/footer.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Php_Assignment/Views/form.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Php_Assignment/Views/header.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Php_Assignment/actions/actions.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Php_Assignment/actions/add_book.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Php_Assignment/actions/delete_book.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Php_Assignment/actions/edit_book.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Php_Assignment/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Php_Assignment/library/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practise/.idea/Practise.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practise/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practise/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practise/.idea/php.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practise/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practise/25498103_2013008832313198_6067442680793394800_n.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practise/Newtext.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practise/OOP/classes.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practise/arrays.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practise/backlit-beach-calm-269197.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practise/cookie.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practise/date.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practise/erroeHandling.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practise/fileHandling.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practise/fileUpload.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practise/filters.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practise/footer.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practise/include.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practise/session.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practise/upload.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practise/webdictionary.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Start/.idea/Start.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Start/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Start/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Start/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Start/Book.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Start/Forms.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Start/bookinsert.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Start/database.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Start/dbdata.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Start/images/image.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Start/new.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Start/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Start/updateb.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Start/welcome.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Try_mvc.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/auto_sync.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/controllers/CeoController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/controllers/EmployeeController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/controllers/HrController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/Bootstrap.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/Controller.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/Model.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/View.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/models/CeoModel.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/models/EmployeeModel.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/models/HrModel.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/models/db.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/models/validate_user.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/.htaccess" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/views/addEmployee.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/views/addHr.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/views/adminPortal.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/views/developer.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/views/header.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/views/hrPortal.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/views/login.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/views/updateEmployee.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/views/updatehr.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/views/viewEmployee.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/views/viewHr.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dataTable/.idea/dataTable.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dataTable/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dataTable/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dataTable/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dataTable/views/add_book.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dataTable/views/db.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dataTable/views/delete_book.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dataTable/views/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dataTable/views/showData.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dataTable/views/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dataTable/views/update.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dataTable/views/update_book.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mvc/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mvc/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mvc/.idea/mvc.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mvc/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mvc/Source Files/.htaccess" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mvc/Source Files/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myMvc/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myMvc/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myMvc/.idea/myMvc.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myMvc/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myMvc/controllers/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myMvc/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myMvc/libs/Controller.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myMvc/libs/View.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../netPhp/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../netPhp/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../netPhp/.idea/netPhp.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../netPhp/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../netPhp/db.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../netPhp/showData.php" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1RMOOEbD4cOzYlCrEyfNWXffYEE" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../SimpleAttendanceRecord_PHP" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/views" />
+      <recent name="$PROJECT_DIR$/models" />
+      <recent name="$PROJECT_DIR$/controllers" />
+      <recent name="$PROJECT_DIR$/views/index" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/models" />
+      <recent name="$PROJECT_DIR$/views/index" />
+      <recent name="$PROJECT_DIR$/controllers" />
+      <recent name="$PROJECT_DIR$/views" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a5a98ffc-7f61-472e-8c61-bac5d81a545d" name="Default Changelist" comment="" />
+      <created>1569393026937</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1569393026937</updated>
+      <workItem from="1569393028083" duration="18779000" />
+      <workItem from="1569473465126" duration="8390000" />
+      <workItem from="1569493737864" duration="7631000" />
+      <workItem from="1569502985593" duration="33000" />
+      <workItem from="1569519242131" duration="826000" />
+      <workItem from="1569564485195" duration="1824000" />
+      <workItem from="1569826475478" duration="3593000" />
+      <workItem from="1569850030087" duration="410000" />
+      <workItem from="1569903573604" duration="2090000" />
+      <workItem from="1570003548875" duration="394000" />
+      <workItem from="1570040261911" duration="577000" />
+      <workItem from="1570080330815" duration="9705000" />
+      <workItem from="1570090489683" duration="6431000" />
+      <workItem from="1570163436464" duration="9569000" />
+      <workItem from="1570422598907" duration="8000" />
+      <workItem from="1570423061285" duration="603000" />
+      <workItem from="1570427691396" duration="4581000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/models/EmployeeModel.php</url>
+          <line>7</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
